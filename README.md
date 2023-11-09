@@ -46,5 +46,4 @@ If you have any questions or feedback, please contact the repository owner by [Y
 
 Thank you for visiting the BitByBit Lab website repository!
 
-[Your Name]
-[Current Year]
+SLAM
