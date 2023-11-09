@@ -1,7 +1,7 @@
 BITBYBIT LAB WEBSITE
 ===================
 
-This is the repository for the BitByBit Lab website, a personal portfolio and blog for showcasing software development projects and research in technology solutions.
+This is the repository for the BitByBit Lab websit, a personal one single page for showcasing software development projects and research in technology solutions.
 
 PREREQUISITES
 -------------
