@@ -42,7 +42,7 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 
 CONTACT
 -------
-If you have any questions or feedback, please contact the repository owner by [Your Contact Method].
+If you have any questions or feedback, please contact the repository owner by email.
 
 Thank you for visiting the BitByBit Lab website repository!
 
